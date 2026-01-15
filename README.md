@@ -6,7 +6,7 @@ Hi! I'm Aryaman Raj Tiwari, a Data Analyst with a keen interest in turning raw d
 **Key Skills:** Python, SQL, Power BI, Excel, Tableau, Web Development, Data Visualisation, Machine Learning, Google Cloud
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNzaXhmbWtscDltbnE2NjFjaWk5bWZ5Y2F2ejNqN2hramdsNmw5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bRAbbHhapIa1b8cIIV/giphy.gif" width="42px"> Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsaryantiwari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itsaryantiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:i.aryantiwari@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryamanrajtiwari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itsaryantiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:i.aryantiwari@gmail.com) 
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"> Tech Stack:
 
